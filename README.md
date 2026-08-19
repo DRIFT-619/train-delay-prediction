@@ -80,7 +80,7 @@ Key turning points:
 
 ## Full Write-Up
 
-For the complete analysis narrative (problem framing, week-by-week EDA, and reasoning behind each modeling decision), see [`Train_Delay_Report_Excerpt.pdf`](Train_Delay_Report_Excerpt.pdf) — an excerpt of the original coursework report covering the Train Delay section only.
+For the complete analysis narrative (problem framing, week-by-week EDA, and reasoning behind each modeling decision), see [`Train Delay Report Excerpt.pdf`](Train_Delay_Report_Excerpt.pdf) — an excerpt of the original coursework report covering the Train Delay section only.
 
 ## Reproducing Results
 
