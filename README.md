@@ -74,7 +74,7 @@ Key turning points:
 ```
 ├── Trains_Delay_Prediction.R               # Full pipeline: EDA, feature engineering, modeling, blending
 ├── images/                                 # Result plots referenced in this README
-├── Train Delay Report Excerpt.pdf          # Excerpt of the original coursework report
+├── Train_Delay_Report_Excerpt.pdf          # Excerpt of the original coursework report
 └── README.md
 ```
 
