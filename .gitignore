@@ -1,0 +1,13 @@
+# Dataset — provided as part of university coursework, not for redistribution
+trainsData.RData
+*.RData
+
+# Jupyter/R session junk
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
